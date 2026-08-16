@@ -1,0 +1,121 @@
+receipt_id,name,caption,category,estimated_time,calories,fats,carbs,protein,timestamp,user_id
+1,Chicken Rice Bowl,Grilled chicken served with seasoned rice and vegetables.,lunch,00:25:00,502,19.98,81.35,15.87,2026-06-14 08:00:00,30
+2,Avocado Toast #2,Toasted bread topped with creamy avocado and egg.,breakfast,00:20:00,432,21.17,71.03,35.56,2026-04-20 08:00:00,38
+3,Beef Shawarma Bowl #3,"Seasoned beef with rice, vegetables and tahini.",lunch,00:25:00,321,7.73,18.53,26.85,2026-01-29 08:00:00,10
+4,Beef Pasta #4,"Pasta with seasoned beef, tomato sauce and herbs.",dinner,01:15:00,612,16.54,59.69,30.07,2026-04-30 08:00:00,34
+5,Lentil Soup #5,Hearty lentil soup with vegetables and spices.,lunch,00:10:00,297,21.11,35.01,33.22,2026-06-14 08:00:00,22
+6,Avocado Toast #6,Toasted bread topped with creamy avocado and egg.,breakfast,00:40:00,341,33.61,80.69,24.79,2026-03-09 08:00:00,33
+7,Greek Yogurt Bowl #7,"Greek yogurt with fruit, oats and honey.",breakfast,00:15:00,485,20.23,29.92,39.14,2026-04-06 08:00:00,49
+8,Greek Yogurt Bowl #8,"Greek yogurt with fruit, oats and honey.",breakfast,00:50:00,180,19.66,23.39,30.16,2026-04-03 08:00:00,20
+9,Egg and Cheese Sandwich #9,"Eggs, cheese and vegetables in toasted bread.",breakfast,00:25:00,260,19.58,20.19,11.17,2026-05-17 08:00:00,50
+10,Banana Oatmeal #10,"Warm oats with banana, milk and a touch of honey.",breakfast,01:15:00,666,9.95,54.58,43.03,2026-06-05 08:00:00,28
+11,Greek Yogurt Bowl #11,"Greek yogurt with fruit, oats and honey.",breakfast,00:25:00,499,25.15,43.01,22.76,2026-05-13 08:00:00,29
+12,Banana Oatmeal #12,"Warm oats with banana, milk and a touch of honey.",breakfast,00:25:00,245,22.65,32.26,20.51,2026-02-26 08:00:00,1
+13,Vegetable Omelette #13,Egg omelette filled with fresh vegetables and herbs.,breakfast,01:15:00,240,32.16,79.47,16.47,2026-01-19 08:00:00,33
+14,Avocado Toast #14,Toasted bread topped with creamy avocado and egg.,breakfast,01:15:00,677,8.97,85.16,15.93,2026-05-27 08:00:00,37
+15,Chicken Pasta #15,Creamy pasta with grilled chicken and herbs.,lunch,00:45:00,596,7.91,47.33,15.05,2026-04-19 08:00:00,27
+16,Vegetable Rice #16,Rice cooked with mixed vegetables and herbs.,lunch,00:10:00,280,26.85,75.04,10.24,2026-01-28 08:00:00,16
+17,Banana Oatmeal #17,"Warm oats with banana, milk and a touch of honey.",breakfast,00:50:00,639,10.5,49.7,13.19,2026-01-20 08:00:00,29
+18,Grilled Chicken #18,Tender grilled chicken served with vegetables.,dinner,00:10:00,733,34.07,84.48,38.93,2026-03-02 08:00:00,11
+19,Tuna Salad #19,"Fresh salad with tuna, vegetables and lemon dressing.",lunch,00:45:00,398,32.07,27.35,39.99,2026-01-01 08:00:00,25
+20,Vegetable Rice #20,Rice cooked with mixed vegetables and herbs.,lunch,00:45:00,472,33.72,89.66,23.65,2026-05-23 08:00:00,43
+21,Chicken Soup #21,Comforting chicken soup with vegetables and herbs.,dinner,00:20:00,374,34.06,58.44,18.98,2026-05-19 08:00:00,4
+22,Baked Fish #22,"Oven-baked fish with lemon, garlic and vegetables.",dinner,00:10:00,231,20.09,78.95,29.61,2026-02-10 08:00:00,4
+23,Grilled Chicken #23,Tender grilled chicken served with vegetables.,dinner,00:20:00,250,25.26,32.64,30.02,2026-01-31 08:00:00,37
+24,Greek Yogurt Bowl #24,"Greek yogurt with fruit, oats and honey.",breakfast,01:00:00,220,17.58,58.78,30.92,2026-05-14 08:00:00,21
+25,Chicken Pasta #25,Creamy pasta with grilled chicken and herbs.,lunch,01:15:00,501,16.87,65.38,16.83,2026-03-18 08:00:00,30
+26,Vegetable Rice #26,Rice cooked with mixed vegetables and herbs.,lunch,00:15:00,189,34.95,89.71,24.96,2026-01-19 08:00:00,35
+27,Greek Yogurt Bowl #27,"Greek yogurt with fruit, oats and honey.",breakfast,00:30:00,315,31.43,80.95,42.53,2026-04-05 08:00:00,19
+28,Pancakes #28,Fluffy pancakes served with fruit and honey.,breakfast,00:50:00,489,34.62,64.05,30.63,2026-01-03 08:00:00,43
+29,Baked Fish #29,"Oven-baked fish with lemon, garlic and vegetables.",dinner,01:15:00,286,9.03,23.66,42.74,2026-01-28 08:00:00,48
+30,Beef Pasta #30,"Pasta with seasoned beef, tomato sauce and herbs.",dinner,00:30:00,468,26.53,30.27,30.38,2026-06-12 08:00:00,17
+31,Chicken Soup #31,Comforting chicken soup with vegetables and herbs.,dinner,00:30:00,232,17.71,35.75,11.42,2026-01-01 08:00:00,22
+32,Vegetable Omelette #32,Egg omelette filled with fresh vegetables and herbs.,breakfast,00:30:00,345,21.55,47.08,35.43,2026-01-03 08:00:00,8
+33,Vegetable Omelette #33,Egg omelette filled with fresh vegetables and herbs.,breakfast,00:20:00,738,16.08,56.44,9.33,2026-04-21 08:00:00,9
+34,Avocado Toast #34,Toasted bread topped with creamy avocado and egg.,breakfast,00:35:00,220,11.3,33.71,41.26,2026-01-27 08:00:00,23
+35,Tomato Pasta #35,"Pasta tossed with tomato sauce, garlic and basil.",dinner,00:40:00,338,12.1,27.19,42.25,2026-02-15 08:00:00,27
+36,Banana Oatmeal #36,"Warm oats with banana, milk and a touch of honey.",breakfast,00:35:00,601,30.92,75.81,37.68,2026-03-10 08:00:00,11
+37,Grilled Chicken #37,Tender grilled chicken served with vegetables.,dinner,00:40:00,219,11.67,76.24,39.77,2026-04-28 08:00:00,23
+38,Vegetable Rice #38,Rice cooked with mixed vegetables and herbs.,lunch,00:25:00,408,10.79,39.62,8.88,2026-01-18 08:00:00,50
+39,Beef Shawarma Bowl #39,"Seasoned beef with rice, vegetables and tahini.",lunch,01:15:00,701,34.43,55.22,22.79,2026-01-08 08:00:00,8
+40,Chicken Pasta #40,Creamy pasta with grilled chicken and herbs.,lunch,01:00:00,451,22.9,40.93,9.42,2026-03-22 08:00:00,28
+41,Stuffed Vegetables #41,Vegetables stuffed with seasoned rice and herbs.,dinner,00:15:00,574,10.7,18.33,41.28,2026-04-22 08:00:00,1
+42,Tomato Pasta #42,"Pasta tossed with tomato sauce, garlic and basil.",dinner,00:50:00,381,7.1,64.82,21.48,2026-03-26 08:00:00,40
+43,Chicken Wrap #43,"Grilled chicken, vegetables and sauce wrapped in flatbread.",lunch,00:15:00,487,25.01,39.46,26.76,2026-06-28 08:00:00,19
+44,Beef Pasta #44,"Pasta with seasoned beef, tomato sauce and herbs.",dinner,00:25:00,610,16.37,71.11,32.6,2026-02-14 08:00:00,40
+45,Baked Fish #45,"Oven-baked fish with lemon, garlic and vegetables.",dinner,00:40:00,741,14.12,30.76,38.85,2026-05-29 08:00:00,39
+46,Baked Fish #46,"Oven-baked fish with lemon, garlic and vegetables.",dinner,00:45:00,632,11.41,50.49,24.36,2026-02-13 08:00:00,43
+47,Avocado Toast #47,Toasted bread topped with creamy avocado and egg.,breakfast,00:50:00,523,33.56,32.62,11.46,2026-03-21 08:00:00,15
+48,Banana Oatmeal #48,"Warm oats with banana, milk and a touch of honey.",breakfast,00:10:00,227,19.25,78.73,17.06,2026-01-19 08:00:00,30
+49,Chicken Wrap #49,"Grilled chicken, vegetables and sauce wrapped in flatbread.",lunch,01:00:00,379,16.52,44.97,34.58,2026-02-07 08:00:00,42
+50,Grilled Chicken #50,Tender grilled chicken served with vegetables.,dinner,00:15:00,615,29.12,67.19,16.1,2026-04-29 08:00:00,4
+51,Beef Pasta #51,"Pasta with seasoned beef, tomato sauce and herbs.",dinner,00:15:00,647,18.94,54.83,12.93,2026-05-24 08:00:00,39
+52,Vegetable Rice #52,Rice cooked with mixed vegetables and herbs.,lunch,00:45:00,696,32.21,48.44,23.79,2026-02-10 08:00:00,48
+53,Tuna Salad #53,"Fresh salad with tuna, vegetables and lemon dressing.",lunch,00:30:00,433,13.32,73.33,39.07,2026-05-05 08:00:00,41
+54,Avocado Toast #54,Toasted bread topped with creamy avocado and egg.,breakfast,00:45:00,259,12.03,40.19,34.4,2026-05-19 08:00:00,6
+55,Banana Oatmeal #55,"Warm oats with banana, milk and a touch of honey.",breakfast,00:25:00,572,26.19,19.82,33.68,2026-04-15 08:00:00,22
+56,Chicken Soup #56,Comforting chicken soup with vegetables and herbs.,dinner,00:40:00,243,17.6,82.86,15.65,2026-05-30 08:00:00,45
+57,Greek Yogurt Bowl #57,"Greek yogurt with fruit, oats and honey.",breakfast,00:40:00,668,15.55,71.51,8.22,2026-04-18 08:00:00,35
+58,Cheese Quesadilla #58,Toasted tortilla filled with cheese and vegetables.,dinner,00:50:00,405,13.19,51.42,26.06,2026-04-10 08:00:00,22
+59,Cheese Quesadilla #59,Toasted tortilla filled with cheese and vegetables.,dinner,00:40:00,349,32.59,88.55,39.1,2026-05-17 08:00:00,2
+60,Lentil Soup #60,Hearty lentil soup with vegetables and spices.,lunch,01:00:00,207,17.86,80.01,11.11,2026-02-16 08:00:00,4
+61,Tuna Salad #61,"Fresh salad with tuna, vegetables and lemon dressing.",lunch,00:35:00,396,15.13,80.97,24.82,2026-03-13 08:00:00,49
+62,Beef Shawarma Bowl #62,"Seasoned beef with rice, vegetables and tahini.",lunch,00:15:00,661,21.18,89.99,8.72,2026-03-31 08:00:00,15
+63,Grilled Chicken #63,Tender grilled chicken served with vegetables.,dinner,01:15:00,221,33.49,29.95,35.91,2026-01-06 08:00:00,40
+64,Banana Oatmeal #64,"Warm oats with banana, milk and a touch of honey.",breakfast,00:20:00,664,21.92,31.35,32.77,2026-06-29 08:00:00,17
+65,Chicken Pasta #65,Creamy pasta with grilled chicken and herbs.,lunch,01:00:00,297,9.91,38.33,36.78,2026-05-29 08:00:00,2
+66,Lentil Soup #66,Hearty lentil soup with vegetables and spices.,lunch,01:15:00,564,26.45,20.7,22.68,2026-06-26 08:00:00,41
+67,Egg and Cheese Sandwich #67,"Eggs, cheese and vegetables in toasted bread.",breakfast,00:30:00,303,21.98,18.08,37.46,2026-05-17 08:00:00,28
+68,Baked Fish #68,"Oven-baked fish with lemon, garlic and vegetables.",dinner,00:15:00,698,5.38,46.5,31.96,2026-05-06 08:00:00,7
+69,Beef Shawarma Bowl #69,"Seasoned beef with rice, vegetables and tahini.",lunch,01:15:00,650,18.06,70.03,34.17,2026-06-16 08:00:00,18
+70,Tomato Pasta #70,"Pasta tossed with tomato sauce, garlic and basil.",dinner,00:50:00,675,29.77,59.44,25.2,2026-03-24 08:00:00,16
+71,Avocado Toast #71,Toasted bread topped with creamy avocado and egg.,breakfast,00:45:00,429,22.1,65.11,35.77,2026-03-28 08:00:00,2
+72,Vegetable Rice #72,Rice cooked with mixed vegetables and herbs.,lunch,00:35:00,366,15.64,34.38,26.04,2026-03-13 08:00:00,39
+73,Baked Fish #73,"Oven-baked fish with lemon, garlic and vegetables.",dinner,00:50:00,190,10.73,33.1,27.12,2026-04-15 08:00:00,32
+74,Tomato Pasta #74,"Pasta tossed with tomato sauce, garlic and basil.",dinner,00:25:00,667,19.72,74.47,31.9,2026-01-24 08:00:00,19
+75,Pancakes #75,Fluffy pancakes served with fruit and honey.,breakfast,00:25:00,493,16.07,56.51,32.57,2026-03-30 08:00:00,28
+76,Stuffed Vegetables #76,Vegetables stuffed with seasoned rice and herbs.,dinner,00:35:00,540,13.13,33.86,34.01,2026-01-31 08:00:00,47
+77,Avocado Toast #77,Toasted bread topped with creamy avocado and egg.,breakfast,00:15:00,728,25.7,29.37,43.18,2026-05-04 08:00:00,18
+78,Stuffed Vegetables #78,Vegetables stuffed with seasoned rice and herbs.,dinner,00:50:00,469,29.98,37.22,44.28,2026-04-03 08:00:00,12
+79,Chicken Rice Bowl #79,Grilled chicken served with seasoned rice and vegetables.,lunch,00:50:00,309,34.23,56.5,18.15,2026-06-28 08:00:00,9
+80,Tomato Pasta #80,"Pasta tossed with tomato sauce, garlic and basil.",dinner,00:45:00,285,22.22,50.2,40.29,2026-04-23 08:00:00,22
+81,Egg and Cheese Sandwich #81,"Eggs, cheese and vegetables in toasted bread.",breakfast,00:30:00,669,6.96,51.88,12.22,2026-05-28 08:00:00,41
+82,Grilled Chicken #82,Tender grilled chicken served with vegetables.,dinner,00:20:00,332,33.47,21.39,38.01,2026-03-05 08:00:00,8
+83,Tomato Pasta #83,"Pasta tossed with tomato sauce, garlic and basil.",dinner,00:40:00,411,16.41,83.14,36.7,2026-03-18 08:00:00,38
+84,Beef Shawarma Bowl #84,"Seasoned beef with rice, vegetables and tahini.",lunch,01:00:00,241,27.2,86.07,30.56,2026-02-23 08:00:00,41
+85,Avocado Toast #85,Toasted bread topped with creamy avocado and egg.,breakfast,01:15:00,263,10.21,20.63,13.81,2026-01-01 08:00:00,27
+86,Chicken Wrap #86,"Grilled chicken, vegetables and sauce wrapped in flatbread.",lunch,01:00:00,661,11.94,68.02,18.78,2026-06-29 08:00:00,30
+87,Vegetable Omelette #87,Egg omelette filled with fresh vegetables and herbs.,breakfast,00:25:00,450,23.75,64.59,37.15,2026-02-20 08:00:00,28
+88,Greek Yogurt Bowl #88,"Greek yogurt with fruit, oats and honey.",breakfast,00:25:00,332,29.8,20.36,41.61,2026-02-12 08:00:00,20
+89,Cheese Quesadilla #89,Toasted tortilla filled with cheese and vegetables.,dinner,01:00:00,475,19.06,37.81,24.25,2026-04-14 08:00:00,18
+90,Stuffed Vegetables #90,Vegetables stuffed with seasoned rice and herbs.,dinner,00:45:00,628,6.2,47.4,10.98,2026-03-24 08:00:00,39
+91,Chicken Rice Bowl #91,Grilled chicken served with seasoned rice and vegetables.,lunch,00:15:00,414,30.08,58.14,43.59,2026-01-06 08:00:00,49
+92,Tomato Pasta #92,"Pasta tossed with tomato sauce, garlic and basil.",dinner,00:30:00,221,10.26,53.92,36.24,2026-04-24 08:00:00,18
+93,Greek Yogurt Bowl #93,"Greek yogurt with fruit, oats and honey.",breakfast,00:40:00,683,19.1,45.63,43.86,2026-03-24 08:00:00,43
+94,Banana Oatmeal #94,"Warm oats with banana, milk and a touch of honey.",breakfast,00:35:00,601,13.65,85.89,33.67,2026-05-21 08:00:00,3
+95,Chicken Rice Bowl #95,Grilled chicken served with seasoned rice and vegetables.,lunch,00:35:00,438,34.11,45.31,19.96,2026-05-12 08:00:00,1
+96,Tomato Pasta #96,"Pasta tossed with tomato sauce, garlic and basil.",dinner,00:50:00,653,10.63,42.13,23.29,2026-05-08 08:00:00,41
+97,Vegetable Rice #97,Rice cooked with mixed vegetables and herbs.,lunch,00:10:00,388,8.93,36.6,17.88,2026-06-28 08:00:00,32
+98,Egg and Cheese Sandwich #98,"Eggs, cheese and vegetables in toasted bread.",breakfast,01:15:00,425,14.32,16.03,34.26,2026-04-15 08:00:00,6
+99,Egg and Cheese Sandwich #99,"Eggs, cheese and vegetables in toasted bread.",breakfast,00:45:00,300,9.62,84.95,31.97,2026-03-16 08:00:00,33
+100,Baked Fish #100,"Oven-baked fish with lemon, garlic and vegetables.",dinner,00:40:00,674,12.31,56.34,44.27,2026-04-09 08:00:00,13
+101,Stuffed Vegetables #101,Vegetables stuffed with seasoned rice and herbs.,dinner,00:20:00,251,28.7,46.12,18.22,2026-05-10 08:00:00,18
+102,Avocado Toast #102,Toasted bread topped with creamy avocado and egg.,breakfast,00:30:00,681,18.4,51.33,40.01,2026-03-27 08:00:00,36
+103,Chicken Soup #103,Comforting chicken soup with vegetables and herbs.,dinner,00:45:00,509,34.42,32.91,40.18,2026-04-09 08:00:00,15
+104,Chicken Rice Bowl #104,Grilled chicken served with seasoned rice and vegetables.,lunch,00:35:00,664,29.34,43.96,34.09,2026-06-19 08:00:00,42
+105,Pancakes #105,Fluffy pancakes served with fruit and honey.,breakfast,00:10:00,309,22.71,80.23,26.58,2026-04-23 08:00:00,7
+106,Chicken Soup #106,Comforting chicken soup with vegetables and herbs.,dinner,00:10:00,327,24.64,26.58,23.17,2026-05-01 08:00:00,17
+107,Lentil Soup #107,Hearty lentil soup with vegetables and spices.,lunch,00:40:00,262,30.57,79.45,39.52,2026-04-08 08:00:00,21
+108,Cheese Quesadilla #108,Toasted tortilla filled with cheese and vegetables.,dinner,00:45:00,734,7.05,62.34,9.33,2026-03-15 08:00:00,15
+109,Grilled Chicken #109,Tender grilled chicken served with vegetables.,dinner,00:40:00,280,26.12,22.54,36.13,2026-02-12 08:00:00,45
+110,Chicken Rice Bowl #110,Grilled chicken served with seasoned rice and vegetables.,lunch,00:10:00,512,13.8,43.11,37.46,2026-02-07 08:00:00,16
+111,Chicken Soup #111,Comforting chicken soup with vegetables and herbs.,dinner,01:00:00,364,7.37,80.31,14.29,2026-06-08 08:00:00,44
+112,Pancakes #112,Fluffy pancakes served with fruit and honey.,breakfast,01:00:00,326,24.14,49.47,16.59,2026-06-20 08:00:00,1
+113,Beef Shawarma Bowl #113,"Seasoned beef with rice, vegetables and tahini.",lunch,01:15:00,739,18.25,40.92,13.85,2026-05-31 08:00:00,20
+114,Chicken Soup #114,Comforting chicken soup with vegetables and herbs.,dinner,00:30:00,647,10.98,43.85,39.28,2026-05-04 08:00:00,7
+115,Pancakes #115,Fluffy pancakes served with fruit and honey.,breakfast,01:00:00,547,34.78,37.14,29.27,2026-06-18 08:00:00,26
+116,Chicken Rice Bowl #116,Grilled chicken served with seasoned rice and vegetables.,lunch,01:00:00,230,27.36,77.46,41.69,2026-03-15 08:00:00,50
+117,Greek Yogurt Bowl #117,"Greek yogurt with fruit, oats and honey.",breakfast,00:35:00,404,23.63,65.83,31.55,2026-06-18 08:00:00,44
+118,Vegetable Omelette #118,Egg omelette filled with fresh vegetables and herbs.,breakfast,00:15:00,220,18.22,58.47,19.43,2026-02-03 08:00:00,6
+119,Beef Shawarma Bowl #119,"Seasoned beef with rice, vegetables and tahini.",lunch,00:40:00,359,28.6,80.73,15.43,2026-04-04 08:00:00,34
+120,Baked Fish #120,"Oven-baked fish with lemon, garlic and vegetables.",dinner,00:20:00,443,33.33,87.55,41.82,2026-03-17 08:00:00,48
