@@ -5,11 +5,12 @@
 - Python
 - Pandas
 - Scikit-learn
-  - StandardScaler
-  - cosine_similarity
+  - `StandardScaler`
+  - `cosine_similarity`
 
 ## Project Structure
 
+```text
 data-science/
 │
 ├── event.py
@@ -18,13 +19,8 @@ data-science/
 ├── process_data.py
 ├── recommendation.py
 └── README.md
+```
 
 ## Data Pipeline
-Load Data
-    ↓
-Process Data
-    ↓
-Recommendation
 
-
-
+Load Data -> Process Data -> Recommendation
