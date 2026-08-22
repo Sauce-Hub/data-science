@@ -17,10 +17,10 @@ def missing_data_fill(data):
 
     recipes["estimated_time"] = recipes["estimated_time"].fillna(0)
 
-    recipes["calories"] = recipes["calories"].fillna(0)
-    recipes["fats"] = recipes["fats"].fillna(0)
-    recipes["carbs"] = recipes["carbs"].fillna(0)
-    recipes["protein"] = recipes["protein"].fillna(0)
+    recipes["Calories"] = recipes["Calories"].fillna(0)
+    recipes["Fats"] = recipes["Fats"].fillna(0)
+    recipes["Carbs"] = recipes["Carbs"].fillna(0)
+    recipes["Protein"] = recipes["Protein"].fillna(0)
 
     data["recipes"] = recipes
 
@@ -30,11 +30,11 @@ def missing_data_fill(data):
 def remove_invalid_values(data):
     recipes = data["recipes"]
 
-    recipes = recipes[recipes["estimated_time"] >= 0]
-    recipes = recipes[recipes["calories"] >= 0]
-    recipes = recipes[recipes["fats"] >= 0]
-    recipes = recipes[recipes["carbs"] >= 0]
-    recipes = recipes[recipes["protein"] >= 0]
+    recipes = recipes[recipes["estimated_time"] > 0]
+    recipes = recipes[recipes["Calories"] >= 0]
+    recipes = recipes[recipes["Fats"] >= 0]
+    recipes = recipes[recipes["Carbs"] >= 0]
+    recipes = recipes[recipes["Protein"] >= 0]
 
     data["recipes"] = recipes
 

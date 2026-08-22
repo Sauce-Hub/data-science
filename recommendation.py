@@ -2,18 +2,45 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics.pairwise import cosine_similarity
 
+def most(data, user_id, num=20):
+    recipes = data["recipes"]
+    recipes = recipes.reset_index(drop=True)
+    favorites = data["favorites"]
+    likes_recipe = data["likes_receipts"]
+    cur_recommend = data["recommendations"]
+    
+    fav_counts = favorites["receipt_id"].value_counts()
+    like_counts = likes_recipe["receipt_id"].value_counts()
+    
+    recipes["popularity"] = ( recipes["receipt_id"].map(fav_counts) * 2 + recipes["receipt_id"].map(like_counts) )
+    
+    # remove already recommended
+    already_recommended = cur_recommend[ cur_recommend["user_id"] == user_id ]["receipt_id"].tolist()
+    recipes = recipes[ ~recipes["receipt_id"].isin(already_recommended) ]
+    
+    top = recipes.sort_values("popularity", ascending=False).head(num)
+   
+    return [
+    {
+        "user_id": int(user_id),
+        "receipt_id": int(rid),
+        "seen": False
+    }
+    for rid in top["receipt_id"]
+    ]
+    
 def get_recommendation(data, user_id, num = 20):
     features = [
-        "calories",
-        "fats",
-        "carbs",
-        "protein",
+        "Calories",
+        "Fats",
+        "Carbs",
+        "Protein",
         "estimated_time"
     ]
     
     recipes = data["recipes"]
     favorites = data["favorites"]
-    likes_recipe = data["likes_recipes"]
+    likes_recipe = data["likes_receipts"]
     cur_recommend = data["recommendations"]
     
     # to reset index to match cosine similarity
@@ -26,7 +53,7 @@ def get_recommendation(data, user_id, num = 20):
     favs_ids = user_favs["receipt_id"].tolist()
     
     if not favs_ids and not likes_ids:
-        return []
+        return most( data, user_id, num )
     
     fav_indices = recipes.index[ recipes["receipt_id"].isin(favs_ids)].tolist()
     likes_indices = recipes.index[recipes["receipt_id"].isin(likes_ids)].tolist()
@@ -82,7 +109,12 @@ def get_recommendation(data, user_id, num = 20):
     for idx in recommend_indices:
         recipe_scores[idx] = -1
     
-    top = sorted(recipe_scores, key=recipe_scores.get, reverse=True)[:num]
+    aval_scores = {
+        idx : score
+        for idx, score in recipe_scores.items()
+        if score != -1
+    }
+    top = sorted(aval_scores, key=aval_scores.get, reverse=True)[:num]
     
     recommendations = []
     
@@ -91,10 +123,10 @@ def get_recommendation(data, user_id, num = 20):
             continue
         
         recommendations.append({
-            "user_id":user_id,
-            "receipt_id":recipes.loc[idx, "receipt_id"],
+            "user_id": int(user_id),
+            "receipt_id": int(recipes.loc[idx, "receipt_id"]),
             "seen": False
-        })
+            })
         
     return recommendations
         
